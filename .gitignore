@@ -1,0 +1,3 @@
+#Ignore NPM
+node_modules/
+Public/
